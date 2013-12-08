@@ -1,9 +1,6 @@
-zzeroo systems
-===
+blog-zzeroo-org
+===============
 
-Blog
----
+zzeroo.org Blog
 
 Willkommen auf dem Blog der zzeroo.org
-
-
